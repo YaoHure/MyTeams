@@ -1,0 +1,36 @@
+[USERS]
+yao.hure@gmail.com:frzrzrzrzzr:false
+leegan.dupros@gmail.com:fsfssffzu:false
+quentin.lavieville@gmail.com:zffzjojfeg:false
+leegan:714dd2dd-ed76-4058-9a01-1d83c4ec610d:false
+user:140ce66d-6e22-45e8-a399-d4751b87d940:false
+test:9ed2052f-a8fc-4c08-b57c-f622f9ea5cb2:false
+leelee:82b6d43c-fdde-43d5-a995-700719c75812:false
+lala:07d29627-a094-4a80-9369-767097e8efeb:false
+lila:0d775405-e7d6-4016-aa68-0d0a24a080fb:false
+Yao:a8448737-5480-4976-81ff-39a316284709:false
+Quentin:832a404e-85ff-421b-996f-58e021c57c3c:false
+Lol:bd2b07a0-b3a3-4a8c-8363-2bd9a91e1c61:false
+Lilou:b03e26d4-6d16-462f-87c3-8819d5524a10:false
+lol:d9cc6196-c36e-450c-8f77-b1e562c5f599:false
+
+[TEAMS]
+team1:ataattat:frzrzrzrzzr;fsfssffzu;zffzjojfeg
+(nom du teams : id du channel : id_users)
+
+[CHANNELS]
+channel1:efegetet:frzrzrzrzzr;ataattat
+(nom channel : id channel : id_teams)
+
+[THREADS]
+threads1:zhrzrzirzhrzh:140ce66d-6e22-45e8-a399-d4751b87d940:bonjour jai un problème isma
+(nom thread : id_thread : id_user : thread/message user)
+
+[COMMENTS]
+jzhrhrzjzr:zhrzrzirzhrzh:140ce66d-6e22-45e8-a399-d4751b87d940:bonjour la team
+(id_comment : id_thread : id_user : commentaire)
+
+[MESSAGES]
+duzhzddzdzz:frzrzrzrzzr;fsfssffzu:frzrzrzrzzr:Salut:10h10
+(id_message : id_users_de_la_conv : id_user_qui_send : message : heure)
+
